@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmcustomerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmcustomerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmcustomerlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmcustomerlist.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\salemanagementwinapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmcategorylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmcategorylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\salemanagementwinapp\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C54C9B-C1D5-4962-B187-C17ACBE3B672}|DataAccessObjects\\DataAccessObjects.csproj|d:\\code\\prn211\\ass02_net1705_giangdq\\dataaccessobjects\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C54C9B-C1D5-4962-B187-C17ACBE3B672}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\salemanagementwinapp\\frmorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmorderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\salemanagementwinapp\\frmproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9D0E0A-3871-456B-883E-F8704620983F}|SaleManagementWinApp\\SaleManagementWinApp.csproj|solutionrelative:salemanagementwinapp\\frmproductlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCustomerList.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCustomerList.Designer.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmCustomerList.Designer.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCustomerList.Designer.cs",
+              "RelativeToolTip": "SaleManagementWinApp\\frmCustomerList.Designer.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:36:06.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmOrderList.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmOrderList.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmOrderList.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmOrderList.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmOrderList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:15.424Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmProduct.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmProduct.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmProduct.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmProduct.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:21.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmProductList.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmProductList.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmProductList.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmProductList.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmProductList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:20.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmProfile.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmProfile.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmProfile.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:28.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCustomerList.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCustomerList.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmCustomerList.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCustomerList.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmCustomerList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:32.59Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmOrderDetail.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmOrderDetail.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmOrderDetail.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmOrderDetail.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmOrderDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:13.539Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmOrder.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmOrder.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmOrder.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:11.758Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmMain.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmMain.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmMain.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:07.368Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmLogin.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmLogin.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmLogin.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:00:02.057Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmCheckout.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCheckout.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmCheckout.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCheckout.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmCheckout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:33.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmCustomer.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCustomer.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:31.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmCategoryList.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCategoryList.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmCategoryList.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCategoryList.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmCategoryList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:30.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmCategory.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCategory.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmCategory.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmCategory.cs [Design]",
+              "RelativeToolTip": "SaleManagementWinApp\\frmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T01:31:30.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\DataAccessObjects\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\CustomerDAO.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\DataAccessObjects\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\CustomerDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:57:45.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmOrderList.cs",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmOrderList.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmOrderList.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmOrderList.cs",
+              "RelativeToolTip": "SaleManagementWinApp\\frmOrderList.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswEsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:17:38.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmProductList.cs",
+              "DocumentMoniker": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmProductList.cs",
+              "RelativeDocumentMoniker": "SaleManagementWinApp\\frmProductList.cs",
+              "ToolTip": "D:\\Code\\PRN211\\Ass02_NET1705_GiangDQ\\SaleManagementWinApp\\frmProductList.cs",
+              "RelativeToolTip": "SaleManagementWinApp\\frmProductList.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:55:24.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
